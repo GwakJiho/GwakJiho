@@ -12,6 +12,8 @@ $ git rm --cached [filename]
 
 $ git commit -m [explain]
 
+$ git push -u origin master
+
 ex) python file upload 
 $ git init
 $ git add *.py
