@@ -9,4 +9,8 @@ $ git rm --cached [filename]
 
 $ git commit -m [explain]
 
-$ git log 
+ex) python file upload 
+$ git init
+$ git add *.py
+$ git status
+%
