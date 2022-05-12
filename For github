@@ -13,4 +13,9 @@ ex) python file upload
 $ git init
 $ git add *.py
 $ git status
-%
+
+
+
+저장소 연결 끊기
+git remote -v => 원격 저장소 목록 확인
+git remote remove origin
