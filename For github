@@ -1,0 +1,12 @@
+$ git init   새로운 저장소 생성
+ 저장소를 구성을 위한 .git 폴더가 생성되며 이 폴더에는 프로젝트 관리를 위한 파일들과 해당 프로젝트에만 적용할 config파일들이 들어있음.
+
+$ git status  저장소내 파일들의 상태 확인
+
+$ git add [filename]  인덱스에 스테이지 한 뒤 상태 확인
+
+$ git rm --cached [filename]
+
+$ git commit -m [explain]
+
+$ git log 
