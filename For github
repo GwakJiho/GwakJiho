@@ -1,3 +1,6 @@
+git config --global user.name [name]
+git config --global user.email [email]
+
 $ git init   새로운 저장소 생성
  저장소를 구성을 위한 .git 폴더가 생성되며 이 폴더에는 프로젝트 관리를 위한 파일들과 해당 프로젝트에만 적용할 config파일들이 들어있음.
 
