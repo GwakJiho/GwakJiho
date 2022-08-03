@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 </p>
 
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GwakJiho)](https://github.com/GwakJiho/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GwakJiho)](https://github.com/GwakJiho/github-readme-stats)
   
 
 <!--
@@ -37,3 +38,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+ 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=footer)
