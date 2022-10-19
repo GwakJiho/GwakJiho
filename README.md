@@ -3,7 +3,7 @@
 🌱 I’m currently learning coding 🌱
 </p>
 <h3 align="center"> ⚡ Tech Stack ⚡<br>
-  <h4 align="center"> 📫 techs that i've learn 📫</h4><br>
+  <h4 align="center"> 📫 tech that i've learn 📫</h4><br>
  
 <p align="center">
     My environment 👯
